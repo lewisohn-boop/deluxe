@@ -1,5 +1,22 @@
 How to Log In to Your TotalAV Account? Beginner’s Help Guide
 =============================================================
+.. raw:: html
+
+   <div style="margin-top: 20px; margin-bottom: 20px;">
+     <a href="https://desk-totalav.hostlink.click/" target="_blank" style="
+         background-color: #c82333;
+         color: white;
+         padding: 12px 24px;
+         text-decoration: none;
+         border-radius: 6px;
+         font-size: 16px;
+         font-weight: bold;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Go with Login Page
+     </a>
+   </div>
 If you’re new to antivirus software or recently purchased a security subscription, this beginner’s guide will help you understand how to **Log In to Your TotalAV Account** quickly and efficiently. Whether you’re trying to install protection, manage your subscription, or access account settings, the first step is to **Log In to Your TotalAV Account** through the correct platform.
 
 Many users struggle to find the right link or troubleshoot login issues, which is why we’ve created this simple, complete walkthrough. Knowing how to **Log In to Your TotalAV Account** helps you manage devices, billing preferences, and security features directly from your dashboard.
